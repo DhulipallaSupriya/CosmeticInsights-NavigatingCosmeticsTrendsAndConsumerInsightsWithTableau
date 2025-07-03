@@ -1,0 +1,1 @@
+# CosmeticInsights-NavigatingCosmeticsTrendsAndConsumerInsightsWithTableau
